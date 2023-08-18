@@ -1,0 +1,6 @@
+*.pdf
+*.npy
+*.png
+*.out
+**/__pycache__
+**/MNIST
