@@ -4,7 +4,9 @@ Sherman Lo 2023-24
 
 Queen Mary, University of London
 
-These are some exercises and implementations to use multiple nodes of GPUs
+These are some exercises and implementations to use multiple nodes of GPUs. See
+the [blog](https://blog.hpc.qmul.ac.uk/pleasingly-parallel-gpu-case-studies-ml/)
+for more details.
 
 ## Case Studies
 
